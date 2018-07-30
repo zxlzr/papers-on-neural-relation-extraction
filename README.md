@@ -1,5 +1,5 @@
-## Must-read papers on NRE.
-NRE: neural relation extraction.
+## Must-read papers on RE.
+RE: relation extraction.
 
 Contributed by [Ningyu Zhang]().
 
@@ -54,9 +54,17 @@ Contributed by [Ningyu Zhang]().
 
 1. Relation Extraction with Multi-instance Multi-label Convolutional Neural Networks (Coling-16)
 
+1. Distant Supervision for Relation Extraction beyond the Sentence Boundary (ECAL-16)
+
+1. Noise-Clustered Distant Supervision for Relation Extraction: A Nonparametric Bayesian Perspective (EMNLP-17)
+
+1. Distant Supervision for Relation Extraction with Matrix Completion (ACL-14)
+
+1. Learning with Noise: Enhance Distantly Supervised Relation Extraction with Dynamic Transition Matrix (ACL-17)
+
 ### Supervised 
 
-1. Zero-Shot Relation Extraction via Reading Comprehension (CoNLL-17)
+1. Relation Classification via Multi-Level Attention CNNs (ACL-16)
 
 1. Attention-Based Bidirectional Long Short-Term Memory Networks for Relation Classification (ACL-16)
 
@@ -72,6 +80,9 @@ Contributed by [Ningyu Zhang]().
 
 1. Attention-Based Bidirectional Long Short-Term Memory Networks for Relation Classification (ACL-16)
 
+1. Relation Extraction with Matrix Factorization and Universal Schemas (NAACL-13)
+
+
 ## Domain Adaption 
 
 1. Domain Adaptation for Relation Extraction with Domain Adversarial Neural Network (IJCNLP-17)
@@ -82,8 +93,13 @@ Contributed by [Ningyu Zhang]().
 
 1. Employing Word Representations and Regularization for Domain Adaptation of Relation Extraction (ACL-14)
 
+1. Embedding Semantic Similarity in Tree Kernels for Domain Adaptation of Relation Extraction (ACL-13)
+
+1. Relation Adaptation: Domain Adaptation of Relation Extraction Systems (ACL-11)
 
 # Others
 
-1.  (IJCAI-11)
+1. Relation Adaptation : Learning to Extract Novel Relations with Minimum Supervision (IJCAI-11)
+
+1. Zero-Shot Relation Extraction via Reading Comprehension (CoNLL-17)
 
