@@ -95,7 +95,11 @@ Contributed by [Ningyu Zhang]().
 
 1. Embedding Semantic Similarity in Tree Kernels for Domain Adaptation of Relation Extraction (ACL-13)
 
-1. Relation Adaptation: Domain Adaptation of Relation Extraction Systems (ACL-11)
+1. Relation Adaptation: Domain Adaptation of Relation Extraction Systems (ACL-11)  (Adapt to new relation)
+
+1. Multi-Task Transfer Learning for Weakly-Supervised Relation Extraction (ACL-09)  (Adapt to new relation)
+
+1. Relation Adaptation : Learning to Extract Novel Relations with Minimum Supervision (IJCAI-11) (Adapt to new relation) 
 
 # Others
 
