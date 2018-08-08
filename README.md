@@ -62,6 +62,15 @@ Contributed by [Ningyu Zhang]().
 
 1. Learning with Noise: Enhance Distantly Supervised Relation Extraction with Dynamic Transition Matrix (ACL-17)
 
+1. Indirect Supervision for Relation Extraction using Question-Answer Pairs (WSDM-18)
+
+1. CoType: Joint Extraction of Typed Entities and Relations with Knowledge Bases (WWW-17)
+
+1. Weakly-supervised Relation Extraction by Pattern-enhanced Embedding Learning (WWW-18)
+
+1. Heterogeneous Supervision for Relation Extraction: A Representation Learning Approach (EMNLP-17)
+
+
 ### Supervised 
 
 1. Relation Classification via Multi-Level Attention CNNs (ACL-16)
