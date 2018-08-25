@@ -1,7 +1,7 @@
 ## Must-read papers on RE.
 RE: relation extraction.
 
-Contributed by [Ningyu Zhang]().
+Contributed by [Ningyu Zhang](https://zxlzr.github.io/).
 
 [OpenNRE](https://github.com/thunlp/OpenNRE) an open source toolkit for NRE. 
 
