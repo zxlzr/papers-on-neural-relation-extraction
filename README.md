@@ -70,6 +70,7 @@ Contributed by [Ningyu Zhang](https://zxlzr.github.io/).
 
 1. Heterogeneous Supervision for Relation Extraction: A Representation Learning Approach (EMNLP-17)
 
+1. Cooperative Denoising for Distantly Supervised Relation Extraction (Coling-18)
 
 ### Supervised 
 
@@ -90,6 +91,8 @@ Contributed by [Ningyu Zhang](https://zxlzr.github.io/).
 1. Attention-Based Bidirectional Long Short-Term Memory Networks for Relation Classification (ACL-16)
 
 1. Relation Extraction with Matrix Factorization and Universal Schemas (NAACL-13)
+
+1. Classifying Relations by Ranking with Convolutional Neural Networks (ACL-15)
 
 
 ## Domain Adaption 
