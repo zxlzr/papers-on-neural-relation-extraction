@@ -80,8 +80,6 @@ Contributed by [Ningyu Zhang](https://zxlzr.github.io/).
 
 1. A Walk-based Model on Entity Graphs for Relation Extraction (ACL-18)
 
-1. Generalizing Biomedical Relation Classification with Neural Adversarial Domain Adaptation (Bioinformatics-18)
-
 1. End-to-End Neural Relation Extraction with Global Optimization (EMNLP-17)
 
 1. Cross-Sentence N-ary Relation Extraction with Graph LSTMs (ACL-17)
@@ -99,6 +97,8 @@ Contributed by [Ningyu Zhang](https://zxlzr.github.io/).
 1. Label-Free Distant Supervision for Relation Extraction via Knowledge Graph Embedding (EMNLP-18)
 
 ## Domain Adaption 
+
+1. Generalizing Biomedical Relation Classification with Neural Adversarial Domain Adaptation (Bioinformatics-18)
 
 1. Domain Adaptation for Relation Extraction with Domain Adversarial Neural Network (IJCNLP-17)
 
