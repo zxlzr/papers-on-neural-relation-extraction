@@ -94,6 +94,9 @@ Contributed by [Ningyu Zhang](https://zxlzr.github.io/).
 
 1. Classifying Relations by Ranking with Convolutional Neural Networks (ACL-15)
 
+1. Attention-Based Capsule Networks with Dynamic Routing for Relation Extractionn (EMNLP-18)
+
+1. Label-Free Distant Supervision for Relation Extraction via Knowledge Graph Embedding (EMNLP-18)
 
 ## Domain Adaption 
 
