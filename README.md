@@ -72,6 +72,10 @@ Contributed by [Ningyu Zhang](https://zxlzr.github.io/).
 
 1. Cooperative Denoising for Distantly Supervised Relation Extraction (Coling-18)
 
+1. Attention-Based Capsule Networks with Dynamic Routing for Relation Extractionn (EMNLP-18)
+
+1. Label-Free Distant Supervision for Relation Extraction via Knowledge Graph Embedding (EMNLP-18)
+
 ### Supervised 
 
 1. Relation Classification via Multi-Level Attention CNNs (ACL-16)
@@ -91,10 +95,6 @@ Contributed by [Ningyu Zhang](https://zxlzr.github.io/).
 1. Relation Extraction with Matrix Factorization and Universal Schemas (NAACL-13)
 
 1. Classifying Relations by Ranking with Convolutional Neural Networks (ACL-15)
-
-1. Attention-Based Capsule Networks with Dynamic Routing for Relation Extractionn (EMNLP-18)
-
-1. Label-Free Distant Supervision for Relation Extraction via Knowledge Graph Embedding (EMNLP-18)
 
 ## Domain Adaption 
 
